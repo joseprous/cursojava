@@ -6,7 +6,7 @@ public class Hola
     {
 
     }
-    public void h()
+    public void h(int n)
     {
     }
 }
