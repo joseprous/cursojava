@@ -9,4 +9,7 @@ public class Hola
     public void g()
     {
     }
+    public void h(int n)
+    {
+    }
 }
