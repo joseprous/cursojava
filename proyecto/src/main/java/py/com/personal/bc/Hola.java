@@ -6,4 +6,8 @@ public class Hola
     {
 
     }
+    public void h()
+    {
+    }
 }
+
